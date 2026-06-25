@@ -1,0 +1,25 @@
+.cabecalho{
+    font-weight: bold;
+    color: #d48b00;
+}
+body{
+    background-color: #f0d88b;
+    background-image: url(cabecalhos_back.png);
+    background-repeat: repeat-y;
+    margin-left: 160px;
+}
+
+hr {
+    border: none;
+    border-top: 2px dotted #555; 
+    color: #f0d88b;
+    background-color: #f0d88b;
+    height: 1px;
+    width: 100%;
+}
+
+.h3{
+    color: white;
+    background-color: #d48b00;
+    padding: 3px;
+}
